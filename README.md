@@ -1,3 +1,3 @@
 # Koultime-delivery-mobile
 
-[./koultime.PNG](./koultime.PNG)
+<img src="./koultime.PNG" />
